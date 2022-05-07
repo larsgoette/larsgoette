@@ -2,7 +2,7 @@
 
 **I’m a tech entrepreneur, UX designer and developer.**
 
-- 🛸 I build UX optimized MVPs. In warp speed.
+- 🛸 I build UX optimized MVPs. At warp speed.
 - 🪅 I'm interested in entrepreneurship, design, web development, AI and web3. 
 - 🧪 I test and validate business models with a data-driven approach.
 - 💬 Ping me about tech innovations, design and green tech.
