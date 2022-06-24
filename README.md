@@ -7,3 +7,6 @@
 - 🧪 I test and validate business models with a data-driven approach.
 - 💬 Ping me about tech innovations, design and green tech.
 - 📫 Connect with me on LinkedIn: [linkedin.com/in/larsgoette](https://www.linkedin.com/in/larsgoette/)
+
+---
+[![Top Langs](http://larsgoette.de/+/github-stats/top-langs.svg)](https://github.com/larsgoette)
